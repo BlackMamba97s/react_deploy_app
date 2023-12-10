@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import EventDetail from './components/EventDetail'; // Componente per i dettagli dell'evento
 
 import EventList from './components/EventList'; // La tua componente esistente per la lista degli eventi
